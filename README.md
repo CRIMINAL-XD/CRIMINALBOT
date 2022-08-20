@@ -10,9 +10,9 @@
   <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ ↻ɾìʍìղąӀβօէ ⚡</b>
 </h6>
 
-<h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Smooth+&+Fast+Telegram%E2%9C%8C%EF%B8%8F;Userbot%2C+Based%2C+%2C+On%2C+Telethon %2C+%2C+Bot%2C+Library.%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
 
 ------
 [![GitHub forks](https://img.shields.io/github/forks/LEGENDXTHANOS/ULTRONBOT?&style=flat-square&logo=github)](https://github.com/LEGENDXTHANOS/ULTRONBOT/fork)
