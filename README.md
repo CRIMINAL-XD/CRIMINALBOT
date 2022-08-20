@@ -2,13 +2,11 @@
   <b>Ͳհҽ ↻ɾìʍìղąӀβօէ 🇮🇳</b>
 </h1>
 
-<p align="center">
-  <img src="https://telegra.ph/file/669b93fabf6bdba13d3c8.jpg" alt="LEGENDXTHANOS">
-</p>
-
 <h6 align="center">
   <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ ↻ɾìʍìղąӀβօէ ⚡</b>
 </h6>
+<p align='Middle'><a href='https://t.me/MRINVISIBLE_OFFICIAL'><img src='https://telegra.ph/file/669b93fabf6bdba13d3c8.jpg' width='750"'></a></p>
+<p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Smooth+&+Fast+Telegram%E2%9C%8C%EF%B8%8F;Userbot%2C+Based%2C+%2C+On%2C+Telethon %2C+%2C+Bot%2C+Library.%E2%9D%A4%EF%B8%8F">
 </p> 
