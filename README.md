@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Ͳհҽ ԱӀէɾօղβօէ 🇮🇳</b>
+  <b>Ͳհҽ ↻ɾìʍìղąӀβօէ 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ ԱӀէɾօղβօէ ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ ↻ɾìʍìղąӀβօէ ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -58,7 +58,7 @@
 - Every mandatory variables are listed [Here](#Variables).
 - Fork & Star this repo.
 - Some commands might not work properly on railway.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@UltronBot_xD](https://t.me/hellbot_chat). Type `#railway` to get deploy guide.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@CriminalBot_xD](https://t.me/Criminalbot_chat). Type `#railway` to get deploy guide.
 
 ------
 ## Deploy Locally
@@ -77,11 +77,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate ULTRONBOT SESSION.
+- Generate CRIMINALBOT SESSION.
 
 `python ultron_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Ultronẞø† By
+- Finally Start Criminalẞø† By
 
 `bash start.sh`
 
@@ -90,13 +90,13 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `ULTRONBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `CRIMINALBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
 
 ------
-## UltronBot Session
+## CriminalBot Session
 
 ### Repl
 - Open Repl Link.
@@ -107,7 +107,7 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your UltronBot Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@LEGEND-LX/ULTRONBOT?v=1)
+
 
 ### Terminal
 - Open the terminal.
@@ -137,7 +137,7 @@
 
 <h4 align="center">Copyright (C) 2022 <a href="https://github.com/LEGENDXTHANOS">LEGENDXTHANOS</a></h4>
 
-Project [UltronBot](https://github.com/LEGENDXTHANOS/ULTRONBOT) is free software: you can redistribute it and/or modify
+Project [CriminalBot](https://github.com/LEGENDXTHANOS/ULTRONBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
